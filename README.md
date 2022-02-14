@@ -1,1 +1,1 @@
-<h1 align="center">Hey there, <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> I'm S Suhail Sherief <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"></h1>
+<h1 align="center">Hey there, <img src="https://media2.giphy.com/media/fSptAINJfyGe3oPHNZ/giphy.gif?cid=ecf05e471fjf5h62lsscm1chr0vje9yllxvfq8sq0n72zijh&rid=giphy.gif&ct=s" width="50"> I'm Sherief <img src="https://media4.giphy.com/media/2xGrSWRdYIvQrQMFcF/giphy.gif?cid=ecf05e47iknfx2lbuohgxs2hajlx10btsty34axlett76cwf&rid=giphy.gif&ct=s" width="50"></h1>

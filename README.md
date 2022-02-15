@@ -2,3 +2,8 @@
 <div align="center">
   <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?color=%2331EE32&center=true&width=500&lines=Full+Stack+Developer;Block+Chain+Enthusiast;CTF+newbie;Leet+Coding"></a>
 </div>
+<div align="center">
+  
+![snake gif](https://github.com/a3x3k/a3x3k/blob/output/github-contribution-grid-snake.svg)
+
+</div>

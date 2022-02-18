@@ -8,6 +8,8 @@
 
 [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=4988e5kwmyi1zbwbnjugpjg5f&cover_image=true&theme=novatorem&bar_color=53b14f&bar_color_cover=false)](https://spotify-github-profile.vercel.app/api/view?uid=4988e5kwmyi1zbwbnjugpjg5f&redirect=true)
 
+### Contributions
+
 <div align="center">
   
 ![snake gif](https://github.com/SuhailSherief/SuhailSherief/blob/output/github-contribution-grid-snake.svg)

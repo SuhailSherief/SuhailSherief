@@ -14,6 +14,32 @@
 
 [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=4988e5kwmyi1zbwbnjugpjg5f&cover_image=true&theme=novatorem&bar_color=53b14f&bar_color_cover=false)](https://spotify-github-profile.vercel.app/api/view?uid=4988e5kwmyi1zbwbnjugpjg5f&redirect=true)
 
+### Git Activity
+
+<div align="center">
+  
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=SuhailSherief&theme=github_dark)
+  
+<br/>
+ 
+![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=SuhailSherief&theme=github_dark)
+  
+<br/>
+
+![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=SuhailSherief&theme=github_dark)
+![](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=SuhailSherief&theme=github_dark)
+  
+<br/>
+
+[![top langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SuhailSherief&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+  
+<br/>
+
+![Sherief's GitHub stats](https://github-readme-stats.vercel.app/api?username=SuhailSherief&show_icons=true&theme=radical)
+  
+<br/>
+  
+</div>
 ### Contributions
 
 <div align="center">

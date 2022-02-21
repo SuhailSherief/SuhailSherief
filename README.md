@@ -16,6 +16,8 @@
 
 ### Git Activity
 
+<br/>
+
 <div align="center">
   
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=SuhailSherief&theme=github_dark)

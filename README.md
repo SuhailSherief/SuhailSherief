@@ -96,7 +96,8 @@
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=SuhailSherief&theme=github_dark)
   
 <br/>
- 
+
+![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=SuhailSherief&theme=github_dark)
 ![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=SuhailSherief&theme=github_dark)
   
 <br/>
@@ -122,4 +123,5 @@
   
 ![snake gif](https://github.com/SuhailSherief/SuhailSherief/blob/output/github-contribution-grid-snake.svg)
 
+![](https://komarev.com/ghpvc/?username=SuhailSherief&style=for-the-badge)
 </div>

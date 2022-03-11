@@ -8,11 +8,6 @@
   <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?color=%2331EE32&center=true&width=500&lines=Full+Stack+Developer;Block+Chain+Enthusiast;Gamer;CTF+newbie;Leet+Coding;Visual+FX"></a>
 </div>
 
-<div align="center">
-  <img alt="GIF" height="120px" src="https://media0.giphy.com/media/yq5BXb69tODwreYyiW/giphy.gif?cid=ecf05e47mn4j6jrxrdn0cqy1yke2kselzjmwpsx2de9o2kfg&rid=giphy.gif&ct=s" />
-  <h1>Under Construction</h1>
-</div>
-
 ### Stack I work with
 
   <br/>

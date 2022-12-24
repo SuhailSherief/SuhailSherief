@@ -1,6 +1,7 @@
 <p align="center">
 <img height=450 width=1080 src="https://github.com/SuhailSherief/SuhailSherief/blob/main/components/Luci.gif">
 </p>
+<h2 align="center">Hey there, I'm Sherief <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25"> </h2>
 <div align="center">  
   <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?color=%2331EE32&center=true&width=500&lines=Full+Stack+Developer;Block+Chain+Enthusiast;Gamer;CTF+newbie;Leet+Coding;Visual+FX"></a>
 </div>

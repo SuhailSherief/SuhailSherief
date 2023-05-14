@@ -3,7 +3,8 @@
 </p>
 <h1 align="center">Hey there,<img src="https://media0.giphy.com/media/CJ5bKVKLSQsrs3nJw2/giphy.gif?cid=ecf05e47364l6yzbqdzlp2k0hspl1dydxmkx2bzynhf75gg9&rid=giphy.gif&ct=s" width="50">I'm Sherief <img src="https://media4.giphy.com/media/2upjCjg1mWDypXxPw9/giphy.gif?cid=790b76115842c8205fb50fad2826acd5ed1736d898875675&rid=giphy.gif&ct=s" width="50"></h1>
 <div align="center">  
-  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?color=%2331EE32&center=true&width=500&lines=Full+Stack+Developer;Block+Chain+Enthusiast;Gamer;CTF+newbie;Leet+Coding;Visual+FX"></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?      font=Gloria+Hallelujah&pause=1000&color=A56DCF&center=true&vCenter=true&width=500&height=100&lines=Full+Stack+Developer;Block+Chain+Enthusiast;Gamer;CTF+newbie;Leet+Coding;Visual+FX" alt="Typing SVG" />
+  </a>
 </div>
 
 ### Stack I work with

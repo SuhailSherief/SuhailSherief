@@ -116,16 +116,21 @@
 ![](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=SuhailSherief&theme=github_dark)
   
 <br/>
-
-[![top langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SuhailSherief&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
   
-<br/>
-
 ![Sherief's GitHub stats](https://github-readme-stats.vercel.app/api?username=SuhailSherief&show_icons=true&theme=radical)
   
 <br/>
   
 </div>
+
+### Discord
+<div align="center">
+  
+[![Discord Presence](https://lanyard.cnrad.dev/api/826756520033255434)](https://discord.com/users/826756520033255434)
+  
+</div>
+
+<br/>
 
 ### Contributions
 

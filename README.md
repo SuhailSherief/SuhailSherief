@@ -92,10 +92,14 @@
 
 <br/>
 
-### Listening To Spotify
-<img align="right" alt="GIF" height="120px" src="https://media1.giphy.com/media/cOfwtFobGCLJBU3DNn/giphy.gif?cid=ecf05e47kgy47ghmzz51zcm0k5u435h9lzecgvg87l66dueb&rid=giphy.gif&ct=s" />
+### Discord
+<div align="center">
+  
+[![Discord Presence](https://lanyard.cnrad.dev/api/826756520033255434)](https://discord.com/users/826756520033255434)
+  
+</div>
 
-[![Spotify](https://novatorem-omega-five.vercel.app/api/spotify)](https://open.spotify.com/user/4988e5kwmyi1zbwbnjugpjg5f?si=ff2226bd22fc4e56)
+<br/>
 
 ### Git Activity
 
@@ -118,15 +122,6 @@
 <br/>
   
 </div>
-
-### Discord
-<div align="center">
-  
-[![Discord Presence](https://lanyard.cnrad.dev/api/826756520033255434)](https://discord.com/users/826756520033255434)
-  
-</div>
-
-<br/>
 
 ### Contributions
 

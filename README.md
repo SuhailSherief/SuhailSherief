@@ -117,10 +117,6 @@
   
 <br/>
   
-![Sherief's GitHub stats](https://github-readme-stats.vercel.app/api?username=SuhailSherief&show_icons=true&theme=radical)
-  
-<br/>
-  
 </div>
 
 ### Discord

@@ -95,7 +95,7 @@
 ### Discord
 <div align="center">
   
-[![Discord Presence](https://lanyard.cnrad.dev/api/826756520033255434)](https://discord.com/users/826756520033255434)
+[![Discord Presence](https://lanyard.cnrad.dev/api/826756520033255434?showDisplayName=true)](https://discord.com/users/826756520033255434)
   
 </div>
 

@@ -127,7 +127,7 @@
 
 <div align="center">
 
-![snake gif](https://github.com/SuhailSherief/SuhailSherief/blob/output/github-contribution-grid-snake.svg)
+![snake gif](https://github.com/SuhailSherief/SuhailSherief/blob/output/github-contribution-grid-snake-dark.svg)
 
 ![](https://komarev.com/ghpvc/?username=SuhailSherief&style=for-the-badge)
 </div>

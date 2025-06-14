@@ -1,10 +1,9 @@
 <p align="center">
-<img height=450 width=1080 src="https://github.com/SuhailSherief/SuhailSherief/blob/main/components/Luci.gif">
-
+<img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/d48893bd-0757-481c-8d7e-ba3e163feae7" />
 </p>
-<h1 align="center">Hey there,<img src="https://media0.giphy.com/media/CJ5bKVKLSQsrs3nJw2/giphy.gif?cid=ecf05e47364l6yzbqdzlp2k0hspl1dydxmkx2bzynhf75gg9&rid=giphy.gif&ct=s" width="50">I'm Sherief <img src="https://media4.giphy.com/media/2upjCjg1mWDypXxPw9/giphy.gif?cid=790b76115842c8205fb50fad2826acd5ed1736d898875675&rid=giphy.gif&ct=s" width="50"></h1>
+<h1 align="center"><img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExbTAwcHR4b3VoNXR0bXQyZ29idTlmeDRzcnM0djJlcXBhZXVuOTFodSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/MYJV0wCG72bQOSyR8B/giphy.gif" width="50" style="vertical-align:bottom">Hello there! <img src="https://github.com/SuhailSherief/SuhailSherief/blob/main/assets/starboy.gif">I'm Sherief<img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExbTAwcHR4b3VoNXR0bXQyZ29idTlmeDRzcnM0djJlcXBhZXVuOTFodSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/MYJV0wCG72bQOSyR8B/giphy.gif" width="50" style="vertical-align:bottom"></h1>
 <div align="center">  
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=4000&pause=1000&color=15F726&width=435&lines=Software+Developer;Blockchain+Enthusiast;CTF+Amateur+" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=4000&pause=1000&color=15F726&center=true&vCenter=true&width=435&lines=Software+Developer;Blockchain+Enthusiast;CTF+Amateur+;Wizard" alt="Typing SVG" /></a>
 </div>
 
 ### Stack I work with
@@ -14,18 +13,18 @@
 <p  align="center">
 <img alt="Static Badge" src="https://img.shields.io/badge/JAVA-007396?style=for-the-badge&logo=openjdk&logoColor=white&logoSize=auto">
   </p>
-  
+
 <p  align="center">
 <img alt="Static Badge" src="https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white&logoSize=auto">
   &nbsp;
 <img alt="Static Badge" src="https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white&logoSize=auto">
   </p>
-  
+
   <p  align="center">
-    
+
 <img alt="Static Badge" src="https://img.shields.io/badge/JAVASCRIPT-F7DF1E?style=for-the-badge&logo=javascript&logoColor=white&logoSize=auto">  
   &nbsp;
-    
+
 <img alt="Static Badge" src="https://img.shields.io/badge/PYTHON-3776AB?style=for-the-badge&logo=python&logoColor=white&logoSize=auto">
   &nbsp;    
 <img alt="Static Badge" src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white&logoSize=auto">
@@ -77,9 +76,9 @@
 ### Discord
 
 <div align="center">
-  
+
 [![Discord Presence](https://lanyard.cnrad.dev/api/826756520033255434)](https://discord.com/users/826756520033255434)
-  
+
 </div>
 
 <br/>
@@ -89,9 +88,9 @@
 <br/>
 
 <div align="center">
-  
+
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=SuhailSherief&theme=github_dark)
-  
+
 <br/>
 
 ![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=SuhailSherief&theme=github_dark)
@@ -103,7 +102,7 @@
 ![](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=SuhailSherief&theme=github_dark)
 
 <br/>
-  
+
 </div>
 
 ### Contributions

@@ -1,7 +1,7 @@
 <p align="center">
 <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/d48893bd-0757-481c-8d7e-ba3e163feae7" />
 </p>
-<h1 align="center"><img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExbTAwcHR4b3VoNXR0bXQyZ29idTlmeDRzcnM0djJlcXBhZXVuOTFodSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/MYJV0wCG72bQOSyR8B/giphy.gif" width="50" style="vertical-align:bottom">Hello there! <img src="https://github.com/SuhailSherief/SuhailSherief/blob/main/assets/starboy.gif">I'm Sherief<img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExbTAwcHR4b3VoNXR0bXQyZ29idTlmeDRzcnM0djJlcXBhZXVuOTFodSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/MYJV0wCG72bQOSyR8B/giphy.gif" width="50" style="vertical-align:bottom"></h1>
+<h1 align="center">Hello there! <img src="https://github.com/SuhailSherief/SuhailSherief/blob/main/assets/starboy.gif" width="40"> I'm Sherief <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExbzU1NXVoN3kzdmJ4d2U3bGV3OXJ3cmwwemN4ZG1ydHJ1bHlkeHEwayZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/x0EASzgqjpvVrYjzvk/giphy.gif" width="50"></h1>
 <div align="center">  
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=4000&pause=1000&color=15F726&center=true&vCenter=true&width=435&lines=Software+Developer;Blockchain+Enthusiast;CTF+Amateur+;Wizard" alt="Typing SVG" /></a>
 </div>
